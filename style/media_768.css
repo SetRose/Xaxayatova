@@ -1,0 +1,206 @@
+@media (max-width:768px) {
+    .container {
+        max-width: 748px;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+
+    .navbar {
+        display: none;
+    }
+
+    .wrap {
+        border-bottom: none;
+        width: 0%;
+    }
+
+    .head-button {
+        width: 200px;
+        height: 64px;
+    }
+
+    .main-text {
+        font-size: 23px;
+    }
+
+    .all-text h1 {
+        display: none;
+    }
+
+    .main-button {
+        text-align: center;
+    }
+
+    .all-txt h2 {
+        color: #fff;
+        
+    }
+
+    .proizvod-item .all-txt {
+        padding-top: 90px;
+    }
+
+    .fakts {
+        flex-wrap: wrap;
+        justify-content: center;
+        margin-top: 30px;
+    }
+
+    .proizvod-menu {
+        display: none;
+    }
+
+    .glavnaya .container {
+        height: auto;
+    }
+
+    .fakt-text {
+        color: white;
+        line-height: 160%;
+        font-size: 13px;
+        margin-left: 10px;
+    }
+
+    .item-fakts {
+        height: 168px;
+        width: 148px;
+    }
+
+    .shem-work .container {
+        height: auto;
+    }
+
+    .shem-point {
+        flex-wrap: wrap;
+    }
+
+    .zauav {
+        display: none;
+    }
+
+    .lineg {
+        display: none;
+    }
+
+    .img-123123 {
+        width: 648px;
+    }
+
+    .media_768 {
+        margin-top: 30px;
+    }
+
+    .delo-client .container {
+        height: auto;
+        display: block;
+        margin-bottom: 30px;
+        max-height: none;
+    }
+
+    .delo-client-img {
+        text-align: center;
+    }
+
+    .product-aero .container {
+        display: block;
+        max-height: none;
+        max-width:none;
+        margin-bottom: 60px;
+    }
+
+    .burger {
+        margin-top: 210px;
+        text-align: center;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .product-aero-menu {
+        justify-content: center;
+    }
+
+    .blog-menu {
+        justify-content: center;
+        margin-top: 0;
+    }
+
+    .coop-img {
+        display: none;
+    }
+
+    .blog-nav {
+        display: none;
+    }
+
+    .nomert {
+        font-size: 12px;
+    }
+
+    .logof__img {
+        width: 120px;
+        margin-left: 10px;
+    }
+
+    .nomert__descr {
+        margin-left: 20px;
+        font-size: 16px;
+    }
+
+    .contf {
+        display: block;
+    }
+
+    .contf-item {
+        font-size: 13px;
+    }
+
+    .navf__titel__768 {
+        display: none;
+    }
+
+    .nav-footer .container {
+        height: auto;
+    }
+
+    .logop {
+        display: none;
+    }
+
+    .politm {
+        text-align: center;
+        justify-content: center;
+        align-items: center;
+    }
+
+    /* --------------------- */
+
+    .fact-text--768 {
+        color: black;
+    }
+
+    .isled-centr-img__img {
+        display: none;
+    }
+
+    .thth {
+        display: none;
+    }
+
+    .delete {
+        display: none;
+    }
+
+    .proizz-img__img {
+        display: none;
+    }
+
+    .product-aero-menu {
+        gap: 110px;
+    }
+
+    .img-321321 {
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+
+}

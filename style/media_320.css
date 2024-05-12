@@ -1,0 +1,157 @@
+@media (max-width:320px) {
+    .container {
+        max-width: 300px;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+
+    .phone {
+        display: none;
+    }
+
+    .header-button {
+        display: none;
+    }
+
+    .main-text {
+        font-size: 15px;
+    }
+
+    .text {
+        display: none;
+    }
+
+    .wrap {
+        border: none;
+    }
+
+    .textbutton {
+        margin-top: 25px;
+    }
+
+    .ma-button {
+        width: 263px;
+    }
+
+    .header-glav {
+        height: 1000px;
+    }
+
+    .img-123123 {
+        display: none;
+    }
+
+    .img__320 {
+        width: 100px;
+    }
+
+    .torgmarki-item {
+        gap: 10px;
+        height: 350px;
+    }
+
+    .all-txt h2 {
+        display: none;
+    }
+
+    .media_768 {
+        display: none;
+    }
+
+    .product-aero-item {
+        align-items: center;
+    }
+
+    .product-aero-menu {
+        gap: 190px;
+        align-items: center;
+    }
+
+    .burger {
+        display: none;
+    }
+
+    .blog-menu {
+        margin-top: 120px;
+    }
+
+    .forma {
+        margin-top: 120px;
+        width: 300px;
+    }
+
+    .form input {
+        width: 300px;
+    }
+
+    .contact .container {
+        flex-direction: column;
+        gap: 10px;
+        padding-top: 10px;
+    }
+
+    .nav-footer {
+        margin-top: 50px;
+    }
+
+    .nav-footer .container {
+        display: none;
+    }
+
+    .politm {
+        margin-top: 20px;
+    }
+
+    /* ------------------ */
+
+    .delo-client-img__img {
+        width: 300px;
+        height: 300px;
+    }
+
+    .all-txtu {
+        text-align: center;
+        justify-content: center;
+    }
+
+    .product-aero-menu {
+        margin-top: 210px;
+        justify-content: start;
+    }
+
+    .delo-client .container {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .txtform-item p {
+        width: 300px;
+        text-align: center;
+    }
+
+    .isled-centr-img {
+        margin-top: 20px;
+    }
+
+    .isled-centr-img__img1 {
+        width: 300px;
+    }
+
+    .isled-centr .container {
+        margin-bottom: 0;
+    }
+
+    .product-aero-menupp {
+        margin-bottom: 40px;
+        align-items: center;
+    }
+
+    .descr {
+        width: 300px;
+        text-align: center;
+    }
+
+    .contf {
+        margin-bottom: -10px;
+    }
+}
